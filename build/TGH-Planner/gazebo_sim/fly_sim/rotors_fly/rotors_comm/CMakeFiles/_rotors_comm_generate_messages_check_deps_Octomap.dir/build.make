@@ -67,7 +67,7 @@ include TGH-Planner/gazebo_sim/fly_sim/rotors_fly/rotors_comm/CMakeFiles/_rotors
 include TGH-Planner/gazebo_sim/fly_sim/rotors_fly/rotors_comm/CMakeFiles/_rotors_comm_generate_messages_check_deps_Octomap.dir/progress.make
 
 TGH-Planner/gazebo_sim/fly_sim/rotors_fly/rotors_comm/CMakeFiles/_rotors_comm_generate_messages_check_deps_Octomap:
-	cd /home/hyh/TGH_ws/build/TGH-Planner/gazebo_sim/fly_sim/rotors_fly/rotors_comm && ../../../../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py rotors_comm /home/hyh/TGH_ws/src/TGH-Planner/gazebo_sim/fly_sim/rotors_fly/rotors_comm/srv/Octomap.srv octomap_msgs/Octomap:std_msgs/Header:geometry_msgs/Point
+	cd /home/hyh/TGH_ws/build/TGH-Planner/gazebo_sim/fly_sim/rotors_fly/rotors_comm && ../../../../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py rotors_comm /home/hyh/TGH_ws/src/TGH-Planner/gazebo_sim/fly_sim/rotors_fly/rotors_comm/srv/Octomap.srv geometry_msgs/Point:std_msgs/Header:octomap_msgs/Octomap
 
 _rotors_comm_generate_messages_check_deps_Octomap: TGH-Planner/gazebo_sim/fly_sim/rotors_fly/rotors_comm/CMakeFiles/_rotors_comm_generate_messages_check_deps_Octomap
 _rotors_comm_generate_messages_check_deps_Octomap: TGH-Planner/gazebo_sim/fly_sim/rotors_fly/rotors_comm/CMakeFiles/_rotors_comm_generate_messages_check_deps_Octomap.dir/build.make

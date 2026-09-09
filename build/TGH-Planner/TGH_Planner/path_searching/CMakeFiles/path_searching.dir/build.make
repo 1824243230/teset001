@@ -125,10 +125,24 @@ TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/src/astar_2
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/path_searching.dir/src/astar_2D.cpp.s"
 	cd /home/hyh/TGH_ws/build/TGH-Planner/TGH_Planner/path_searching && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hyh/TGH_ws/src/TGH-Planner/TGH_Planner/path_searching/src/astar_2D.cpp -o CMakeFiles/path_searching.dir/src/astar_2D.cpp.s
 
+TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/src/path_relation_graph.cpp.o: TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/flags.make
+TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/src/path_relation_graph.cpp.o: /home/hyh/TGH_ws/src/TGH-Planner/TGH_Planner/path_searching/src/path_relation_graph.cpp
+TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/src/path_relation_graph.cpp.o: TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/hyh/TGH_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/src/path_relation_graph.cpp.o"
+	cd /home/hyh/TGH_ws/build/TGH-Planner/TGH_Planner/path_searching && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/src/path_relation_graph.cpp.o -MF CMakeFiles/path_searching.dir/src/path_relation_graph.cpp.o.d -o CMakeFiles/path_searching.dir/src/path_relation_graph.cpp.o -c /home/hyh/TGH_ws/src/TGH-Planner/TGH_Planner/path_searching/src/path_relation_graph.cpp
+
+TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/src/path_relation_graph.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/path_searching.dir/src/path_relation_graph.cpp.i"
+	cd /home/hyh/TGH_ws/build/TGH-Planner/TGH_Planner/path_searching && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hyh/TGH_ws/src/TGH-Planner/TGH_Planner/path_searching/src/path_relation_graph.cpp > CMakeFiles/path_searching.dir/src/path_relation_graph.cpp.i
+
+TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/src/path_relation_graph.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/path_searching.dir/src/path_relation_graph.cpp.s"
+	cd /home/hyh/TGH_ws/build/TGH-Planner/TGH_Planner/path_searching && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hyh/TGH_ws/src/TGH-Planner/TGH_Planner/path_searching/src/path_relation_graph.cpp -o CMakeFiles/path_searching.dir/src/path_relation_graph.cpp.s
+
 TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/src/topo_prm.cpp.o: TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/flags.make
 TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/src/topo_prm.cpp.o: /home/hyh/TGH_ws/src/TGH-Planner/TGH_Planner/path_searching/src/topo_prm.cpp
 TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/src/topo_prm.cpp.o: TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/hyh/TGH_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/src/topo_prm.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/hyh/TGH_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/src/topo_prm.cpp.o"
 	cd /home/hyh/TGH_ws/build/TGH-Planner/TGH_Planner/path_searching && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/src/topo_prm.cpp.o -MF CMakeFiles/path_searching.dir/src/topo_prm.cpp.o.d -o CMakeFiles/path_searching.dir/src/topo_prm.cpp.o -c /home/hyh/TGH_ws/src/TGH-Planner/TGH_Planner/path_searching/src/topo_prm.cpp
 
 TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/src/topo_prm.cpp.i: cmake_force
@@ -142,7 +156,7 @@ TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/src/topo_pr
 TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/src/dubins.cpp.o: TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/flags.make
 TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/src/dubins.cpp.o: /home/hyh/TGH_ws/src/TGH-Planner/TGH_Planner/path_searching/src/dubins.cpp
 TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/src/dubins.cpp.o: TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/hyh/TGH_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/src/dubins.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/hyh/TGH_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/src/dubins.cpp.o"
 	cd /home/hyh/TGH_ws/build/TGH-Planner/TGH_Planner/path_searching && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/src/dubins.cpp.o -MF CMakeFiles/path_searching.dir/src/dubins.cpp.o.d -o CMakeFiles/path_searching.dir/src/dubins.cpp.o -c /home/hyh/TGH_ws/src/TGH-Planner/TGH_Planner/path_searching/src/dubins.cpp
 
 TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/src/dubins.cpp.i: cmake_force
@@ -156,7 +170,7 @@ TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/src/dubins.
 TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/src/jump_point_search.cpp.o: TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/flags.make
 TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/src/jump_point_search.cpp.o: /home/hyh/TGH_ws/src/TGH-Planner/TGH_Planner/path_searching/src/jump_point_search.cpp
 TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/src/jump_point_search.cpp.o: TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/hyh/TGH_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/src/jump_point_search.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/hyh/TGH_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/src/jump_point_search.cpp.o"
 	cd /home/hyh/TGH_ws/build/TGH-Planner/TGH_Planner/path_searching && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/src/jump_point_search.cpp.o -MF CMakeFiles/path_searching.dir/src/jump_point_search.cpp.o.d -o CMakeFiles/path_searching.dir/src/jump_point_search.cpp.o -c /home/hyh/TGH_ws/src/TGH-Planner/TGH_Planner/path_searching/src/jump_point_search.cpp
 
 TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/src/jump_point_search.cpp.i: cmake_force
@@ -173,6 +187,7 @@ path_searching_OBJECTS = \
 "CMakeFiles/path_searching.dir/src/kinodynamic_astar_2D.cpp.o" \
 "CMakeFiles/path_searching.dir/src/astar.cpp.o" \
 "CMakeFiles/path_searching.dir/src/astar_2D.cpp.o" \
+"CMakeFiles/path_searching.dir/src/path_relation_graph.cpp.o" \
 "CMakeFiles/path_searching.dir/src/topo_prm.cpp.o" \
 "CMakeFiles/path_searching.dir/src/dubins.cpp.o" \
 "CMakeFiles/path_searching.dir/src/jump_point_search.cpp.o"
@@ -184,6 +199,7 @@ path_searching_EXTERNAL_OBJECTS =
 /home/hyh/TGH_ws/devel/lib/libpath_searching.so: TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/src/kinodynamic_astar_2D.cpp.o
 /home/hyh/TGH_ws/devel/lib/libpath_searching.so: TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/src/astar.cpp.o
 /home/hyh/TGH_ws/devel/lib/libpath_searching.so: TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/src/astar_2D.cpp.o
+/home/hyh/TGH_ws/devel/lib/libpath_searching.so: TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/src/path_relation_graph.cpp.o
 /home/hyh/TGH_ws/devel/lib/libpath_searching.so: TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/src/topo_prm.cpp.o
 /home/hyh/TGH_ws/devel/lib/libpath_searching.so: TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/src/dubins.cpp.o
 /home/hyh/TGH_ws/devel/lib/libpath_searching.so: TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/src/jump_point_search.cpp.o
@@ -521,7 +537,7 @@ path_searching_EXTERNAL_OBJECTS =
 /home/hyh/TGH_ws/devel/lib/libpath_searching.so: /usr/lib/x86_64-linux-gnu/libXt.so
 /home/hyh/TGH_ws/devel/lib/libpath_searching.so: /usr/lib/x86_64-linux-gnu/libflann_cpp.so
 /home/hyh/TGH_ws/devel/lib/libpath_searching.so: TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/hyh/TGH_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX shared library /home/hyh/TGH_ws/devel/lib/libpath_searching.so"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/hyh/TGH_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX shared library /home/hyh/TGH_ws/devel/lib/libpath_searching.so"
 	cd /home/hyh/TGH_ws/build/TGH-Planner/TGH_Planner/path_searching && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/path_searching.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -67,7 +67,7 @@ include TGH-Planner/gazebo_sim/fly_sim/mav_comm/mav_msgs/CMakeFiles/_mav_msgs_ge
 include TGH-Planner/gazebo_sim/fly_sim/mav_comm/mav_msgs/CMakeFiles/_mav_msgs_generate_messages_check_deps_AttitudeThrust.dir/progress.make
 
 TGH-Planner/gazebo_sim/fly_sim/mav_comm/mav_msgs/CMakeFiles/_mav_msgs_generate_messages_check_deps_AttitudeThrust:
-	cd /home/hyh/TGH_ws/build/TGH-Planner/gazebo_sim/fly_sim/mav_comm/mav_msgs && ../../../../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py mav_msgs /home/hyh/TGH_ws/src/TGH-Planner/gazebo_sim/fly_sim/mav_comm/mav_msgs/msg/AttitudeThrust.msg geometry_msgs/Quaternion:std_msgs/Header:geometry_msgs/Vector3
+	cd /home/hyh/TGH_ws/build/TGH-Planner/gazebo_sim/fly_sim/mav_comm/mav_msgs && ../../../../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py mav_msgs /home/hyh/TGH_ws/src/TGH-Planner/gazebo_sim/fly_sim/mav_comm/mav_msgs/msg/AttitudeThrust.msg geometry_msgs/Quaternion:geometry_msgs/Vector3:std_msgs/Header
 
 _mav_msgs_generate_messages_check_deps_AttitudeThrust: TGH-Planner/gazebo_sim/fly_sim/mav_comm/mav_msgs/CMakeFiles/_mav_msgs_generate_messages_check_deps_AttitudeThrust
 _mav_msgs_generate_messages_check_deps_AttitudeThrust: TGH-Planner/gazebo_sim/fly_sim/mav_comm/mav_msgs/CMakeFiles/_mav_msgs_generate_messages_check_deps_AttitudeThrust.dir/build.make

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="2" failures="0" disabled="0" errors="0" time="0" timestamp="2026-09-09T13:09:11" name="AllTests">
+  <testsuite name="PathRelationGraph" tests="2" failures="0" disabled="0" errors="0" time="0" timestamp="2026-09-09T13:09:11">
+    <testcase name="SelectsDifferentCorridorsInsteadOfDuplicates" status="run" result="completed" time="0" timestamp="2026-09-09T13:09:11" classname="PathRelationGraph" />
+    <testcase name="ClearanceContributesToUnaryQuality" status="run" result="completed" time="0" timestamp="2026-09-09T13:09:11" classname="PathRelationGraph" />
+  </testsuite>
+</testsuites>

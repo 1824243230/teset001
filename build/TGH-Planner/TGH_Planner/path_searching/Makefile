@@ -185,6 +185,118 @@ path_searching/fast:
 	cd /home/hyh/TGH_ws/build && $(MAKE) $(MAKESILENT) -f TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/build.make TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/build
 .PHONY : path_searching/fast
 
+# Convenience name for target.
+TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_relation_graph_test.dir/rule:
+	cd /home/hyh/TGH_ws/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_relation_graph_test.dir/rule
+.PHONY : TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_relation_graph_test.dir/rule
+
+# Convenience name for target.
+path_relation_graph_test: TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_relation_graph_test.dir/rule
+.PHONY : path_relation_graph_test
+
+# fast build rule for target.
+path_relation_graph_test/fast:
+	cd /home/hyh/TGH_ws/build && $(MAKE) $(MAKESILENT) -f TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_relation_graph_test.dir/build.make TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_relation_graph_test.dir/build
+.PHONY : path_relation_graph_test/fast
+
+# Convenience name for target.
+TGH-Planner/TGH_Planner/path_searching/CMakeFiles/run_tests_path_searching.dir/rule:
+	cd /home/hyh/TGH_ws/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 TGH-Planner/TGH_Planner/path_searching/CMakeFiles/run_tests_path_searching.dir/rule
+.PHONY : TGH-Planner/TGH_Planner/path_searching/CMakeFiles/run_tests_path_searching.dir/rule
+
+# Convenience name for target.
+run_tests_path_searching: TGH-Planner/TGH_Planner/path_searching/CMakeFiles/run_tests_path_searching.dir/rule
+.PHONY : run_tests_path_searching
+
+# fast build rule for target.
+run_tests_path_searching/fast:
+	cd /home/hyh/TGH_ws/build && $(MAKE) $(MAKESILENT) -f TGH-Planner/TGH_Planner/path_searching/CMakeFiles/run_tests_path_searching.dir/build.make TGH-Planner/TGH_Planner/path_searching/CMakeFiles/run_tests_path_searching.dir/build
+.PHONY : run_tests_path_searching/fast
+
+# Convenience name for target.
+TGH-Planner/TGH_Planner/path_searching/CMakeFiles/_run_tests_path_searching.dir/rule:
+	cd /home/hyh/TGH_ws/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 TGH-Planner/TGH_Planner/path_searching/CMakeFiles/_run_tests_path_searching.dir/rule
+.PHONY : TGH-Planner/TGH_Planner/path_searching/CMakeFiles/_run_tests_path_searching.dir/rule
+
+# Convenience name for target.
+_run_tests_path_searching: TGH-Planner/TGH_Planner/path_searching/CMakeFiles/_run_tests_path_searching.dir/rule
+.PHONY : _run_tests_path_searching
+
+# fast build rule for target.
+_run_tests_path_searching/fast:
+	cd /home/hyh/TGH_ws/build && $(MAKE) $(MAKESILENT) -f TGH-Planner/TGH_Planner/path_searching/CMakeFiles/_run_tests_path_searching.dir/build.make TGH-Planner/TGH_Planner/path_searching/CMakeFiles/_run_tests_path_searching.dir/build
+.PHONY : _run_tests_path_searching/fast
+
+# Convenience name for target.
+TGH-Planner/TGH_Planner/path_searching/CMakeFiles/run_tests_path_searching_gtest.dir/rule:
+	cd /home/hyh/TGH_ws/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 TGH-Planner/TGH_Planner/path_searching/CMakeFiles/run_tests_path_searching_gtest.dir/rule
+.PHONY : TGH-Planner/TGH_Planner/path_searching/CMakeFiles/run_tests_path_searching_gtest.dir/rule
+
+# Convenience name for target.
+run_tests_path_searching_gtest: TGH-Planner/TGH_Planner/path_searching/CMakeFiles/run_tests_path_searching_gtest.dir/rule
+.PHONY : run_tests_path_searching_gtest
+
+# fast build rule for target.
+run_tests_path_searching_gtest/fast:
+	cd /home/hyh/TGH_ws/build && $(MAKE) $(MAKESILENT) -f TGH-Planner/TGH_Planner/path_searching/CMakeFiles/run_tests_path_searching_gtest.dir/build.make TGH-Planner/TGH_Planner/path_searching/CMakeFiles/run_tests_path_searching_gtest.dir/build
+.PHONY : run_tests_path_searching_gtest/fast
+
+# Convenience name for target.
+TGH-Planner/TGH_Planner/path_searching/CMakeFiles/_run_tests_path_searching_gtest.dir/rule:
+	cd /home/hyh/TGH_ws/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 TGH-Planner/TGH_Planner/path_searching/CMakeFiles/_run_tests_path_searching_gtest.dir/rule
+.PHONY : TGH-Planner/TGH_Planner/path_searching/CMakeFiles/_run_tests_path_searching_gtest.dir/rule
+
+# Convenience name for target.
+_run_tests_path_searching_gtest: TGH-Planner/TGH_Planner/path_searching/CMakeFiles/_run_tests_path_searching_gtest.dir/rule
+.PHONY : _run_tests_path_searching_gtest
+
+# fast build rule for target.
+_run_tests_path_searching_gtest/fast:
+	cd /home/hyh/TGH_ws/build && $(MAKE) $(MAKESILENT) -f TGH-Planner/TGH_Planner/path_searching/CMakeFiles/_run_tests_path_searching_gtest.dir/build.make TGH-Planner/TGH_Planner/path_searching/CMakeFiles/_run_tests_path_searching_gtest.dir/build
+.PHONY : _run_tests_path_searching_gtest/fast
+
+# Convenience name for target.
+TGH-Planner/TGH_Planner/path_searching/CMakeFiles/run_tests_path_searching_gtest_path_relation_graph_test.dir/rule:
+	cd /home/hyh/TGH_ws/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 TGH-Planner/TGH_Planner/path_searching/CMakeFiles/run_tests_path_searching_gtest_path_relation_graph_test.dir/rule
+.PHONY : TGH-Planner/TGH_Planner/path_searching/CMakeFiles/run_tests_path_searching_gtest_path_relation_graph_test.dir/rule
+
+# Convenience name for target.
+run_tests_path_searching_gtest_path_relation_graph_test: TGH-Planner/TGH_Planner/path_searching/CMakeFiles/run_tests_path_searching_gtest_path_relation_graph_test.dir/rule
+.PHONY : run_tests_path_searching_gtest_path_relation_graph_test
+
+# fast build rule for target.
+run_tests_path_searching_gtest_path_relation_graph_test/fast:
+	cd /home/hyh/TGH_ws/build && $(MAKE) $(MAKESILENT) -f TGH-Planner/TGH_Planner/path_searching/CMakeFiles/run_tests_path_searching_gtest_path_relation_graph_test.dir/build.make TGH-Planner/TGH_Planner/path_searching/CMakeFiles/run_tests_path_searching_gtest_path_relation_graph_test.dir/build
+.PHONY : run_tests_path_searching_gtest_path_relation_graph_test/fast
+
+# Convenience name for target.
+TGH-Planner/TGH_Planner/path_searching/CMakeFiles/_run_tests_path_searching_gtest_path_relation_graph_test.dir/rule:
+	cd /home/hyh/TGH_ws/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 TGH-Planner/TGH_Planner/path_searching/CMakeFiles/_run_tests_path_searching_gtest_path_relation_graph_test.dir/rule
+.PHONY : TGH-Planner/TGH_Planner/path_searching/CMakeFiles/_run_tests_path_searching_gtest_path_relation_graph_test.dir/rule
+
+# Convenience name for target.
+_run_tests_path_searching_gtest_path_relation_graph_test: TGH-Planner/TGH_Planner/path_searching/CMakeFiles/_run_tests_path_searching_gtest_path_relation_graph_test.dir/rule
+.PHONY : _run_tests_path_searching_gtest_path_relation_graph_test
+
+# fast build rule for target.
+_run_tests_path_searching_gtest_path_relation_graph_test/fast:
+	cd /home/hyh/TGH_ws/build && $(MAKE) $(MAKESILENT) -f TGH-Planner/TGH_Planner/path_searching/CMakeFiles/_run_tests_path_searching_gtest_path_relation_graph_test.dir/build.make TGH-Planner/TGH_Planner/path_searching/CMakeFiles/_run_tests_path_searching_gtest_path_relation_graph_test.dir/build
+.PHONY : _run_tests_path_searching_gtest_path_relation_graph_test/fast
+
+# Convenience name for target.
+TGH-Planner/TGH_Planner/path_searching/CMakeFiles/clean_test_results_path_searching.dir/rule:
+	cd /home/hyh/TGH_ws/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 TGH-Planner/TGH_Planner/path_searching/CMakeFiles/clean_test_results_path_searching.dir/rule
+.PHONY : TGH-Planner/TGH_Planner/path_searching/CMakeFiles/clean_test_results_path_searching.dir/rule
+
+# Convenience name for target.
+clean_test_results_path_searching: TGH-Planner/TGH_Planner/path_searching/CMakeFiles/clean_test_results_path_searching.dir/rule
+.PHONY : clean_test_results_path_searching
+
+# fast build rule for target.
+clean_test_results_path_searching/fast:
+	cd /home/hyh/TGH_ws/build && $(MAKE) $(MAKESILENT) -f TGH-Planner/TGH_Planner/path_searching/CMakeFiles/clean_test_results_path_searching.dir/build.make TGH-Planner/TGH_Planner/path_searching/CMakeFiles/clean_test_results_path_searching.dir/build
+.PHONY : clean_test_results_path_searching/fast
+
 src/astar.o: src/astar.cpp.o
 .PHONY : src/astar.o
 
@@ -329,6 +441,30 @@ src/kinodynamic_astar_2D.cpp.s:
 	cd /home/hyh/TGH_ws/build && $(MAKE) $(MAKESILENT) -f TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/build.make TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/src/kinodynamic_astar_2D.cpp.s
 .PHONY : src/kinodynamic_astar_2D.cpp.s
 
+src/path_relation_graph.o: src/path_relation_graph.cpp.o
+.PHONY : src/path_relation_graph.o
+
+# target to build an object file
+src/path_relation_graph.cpp.o:
+	cd /home/hyh/TGH_ws/build && $(MAKE) $(MAKESILENT) -f TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/build.make TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/src/path_relation_graph.cpp.o
+.PHONY : src/path_relation_graph.cpp.o
+
+src/path_relation_graph.i: src/path_relation_graph.cpp.i
+.PHONY : src/path_relation_graph.i
+
+# target to preprocess a source file
+src/path_relation_graph.cpp.i:
+	cd /home/hyh/TGH_ws/build && $(MAKE) $(MAKESILENT) -f TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/build.make TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/src/path_relation_graph.cpp.i
+.PHONY : src/path_relation_graph.cpp.i
+
+src/path_relation_graph.s: src/path_relation_graph.cpp.s
+.PHONY : src/path_relation_graph.s
+
+# target to generate assembly for a file
+src/path_relation_graph.cpp.s:
+	cd /home/hyh/TGH_ws/build && $(MAKE) $(MAKESILENT) -f TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/build.make TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/src/path_relation_graph.cpp.s
+.PHONY : src/path_relation_graph.cpp.s
+
 src/topo_prm.o: src/topo_prm.cpp.o
 .PHONY : src/topo_prm.o
 
@@ -353,6 +489,30 @@ src/topo_prm.cpp.s:
 	cd /home/hyh/TGH_ws/build && $(MAKE) $(MAKESILENT) -f TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/build.make TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_searching.dir/src/topo_prm.cpp.s
 .PHONY : src/topo_prm.cpp.s
 
+test/path_relation_graph_test.o: test/path_relation_graph_test.cpp.o
+.PHONY : test/path_relation_graph_test.o
+
+# target to build an object file
+test/path_relation_graph_test.cpp.o:
+	cd /home/hyh/TGH_ws/build && $(MAKE) $(MAKESILENT) -f TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_relation_graph_test.dir/build.make TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_relation_graph_test.dir/test/path_relation_graph_test.cpp.o
+.PHONY : test/path_relation_graph_test.cpp.o
+
+test/path_relation_graph_test.i: test/path_relation_graph_test.cpp.i
+.PHONY : test/path_relation_graph_test.i
+
+# target to preprocess a source file
+test/path_relation_graph_test.cpp.i:
+	cd /home/hyh/TGH_ws/build && $(MAKE) $(MAKESILENT) -f TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_relation_graph_test.dir/build.make TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_relation_graph_test.dir/test/path_relation_graph_test.cpp.i
+.PHONY : test/path_relation_graph_test.cpp.i
+
+test/path_relation_graph_test.s: test/path_relation_graph_test.cpp.s
+.PHONY : test/path_relation_graph_test.s
+
+# target to generate assembly for a file
+test/path_relation_graph_test.cpp.s:
+	cd /home/hyh/TGH_ws/build && $(MAKE) $(MAKESILENT) -f TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_relation_graph_test.dir/build.make TGH-Planner/TGH_Planner/path_searching/CMakeFiles/path_relation_graph_test.dir/test/path_relation_graph_test.cpp.s
+.PHONY : test/path_relation_graph_test.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -366,6 +526,14 @@ help:
 	@echo "... list_install_components"
 	@echo "... rebuild_cache"
 	@echo "... test"
+	@echo "... _run_tests_path_searching"
+	@echo "... _run_tests_path_searching_gtest"
+	@echo "... _run_tests_path_searching_gtest_path_relation_graph_test"
+	@echo "... clean_test_results_path_searching"
+	@echo "... run_tests_path_searching"
+	@echo "... run_tests_path_searching_gtest"
+	@echo "... run_tests_path_searching_gtest_path_relation_graph_test"
+	@echo "... path_relation_graph_test"
 	@echo "... path_searching"
 	@echo "... src/astar.o"
 	@echo "... src/astar.i"
@@ -385,9 +553,15 @@ help:
 	@echo "... src/kinodynamic_astar_2D.o"
 	@echo "... src/kinodynamic_astar_2D.i"
 	@echo "... src/kinodynamic_astar_2D.s"
+	@echo "... src/path_relation_graph.o"
+	@echo "... src/path_relation_graph.i"
+	@echo "... src/path_relation_graph.s"
 	@echo "... src/topo_prm.o"
 	@echo "... src/topo_prm.i"
 	@echo "... src/topo_prm.s"
+	@echo "... test/path_relation_graph_test.o"
+	@echo "... test/path_relation_graph_test.i"
+	@echo "... test/path_relation_graph_test.s"
 .PHONY : help
 
 

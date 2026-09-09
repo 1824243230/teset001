@@ -13,6 +13,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/path_searching.dir/src/kinodynamic_astar.cpp.o.d"
   "CMakeFiles/path_searching.dir/src/kinodynamic_astar_2D.cpp.o"
   "CMakeFiles/path_searching.dir/src/kinodynamic_astar_2D.cpp.o.d"
+  "CMakeFiles/path_searching.dir/src/path_relation_graph.cpp.o"
+  "CMakeFiles/path_searching.dir/src/path_relation_graph.cpp.o.d"
   "CMakeFiles/path_searching.dir/src/topo_prm.cpp.o"
   "CMakeFiles/path_searching.dir/src/topo_prm.cpp.o.d"
 )

@@ -1,241 +1,542 @@
-[  0%] Built target std_msgs_generate_messages_py
-[  0%] Built target std_msgs_generate_messages_cpp
-[  0%] Built target std_msgs_generate_messages_eus
-[  0%] Built target std_msgs_generate_messages_lisp
-[  0%] Built target std_msgs_generate_messages_nodejs
-[  0%] Built target _car_msgs_generate_messages_check_deps_CarCmd
-[  0%] Built target _common_srvs_generate_messages_check_deps_traj_record
-[  0%] Built target _common_srvs_generate_messages_check_deps_load_or_save_global_map
-[  0%] Built target _common_srvs_generate_messages_check_deps_reset_env
-[  0%] Built target _common_srvs_generate_messages_check_deps_set_init_pose
-[  0%] Built target _jackal_msgs_generate_messages_check_deps_Status
-[  0%] Built target _jackal_msgs_generate_messages_check_deps_DriveFeedback
-[  0%] Built target _jackal_msgs_generate_messages_check_deps_Drive
-[  0%] Built target geometry_msgs_generate_messages_py
-[  0%] Built target octomap_msgs_generate_messages_py
-[  0%] Built target _jackal_msgs_generate_messages_check_deps_Feedback
-[  0%] Built target geometry_msgs_generate_messages_cpp
-[  0%] Built target _rotors_comm_generate_messages_check_deps_RecordRosbag
-[  0%] Built target octomap_msgs_generate_messages_cpp
-[  0%] Built target geometry_msgs_generate_messages_eus
-[  0%] Built target _rotors_comm_generate_messages_check_deps_WindSpeed
-[  0%] Built target _rotors_comm_generate_messages_check_deps_Octomap
-[  0%] Built target octomap_msgs_generate_messages_eus
-[  0%] Built target geometry_msgs_generate_messages_lisp
-[  0%] Built target octomap_msgs_generate_messages_lisp
-[  0%] Built target geometry_msgs_generate_messages_nodejs
-[  0%] Built target octomap_msgs_generate_messages_nodejs
-[  2%] Built target calTrajInfo
-[  2%] Built target drawTrajMap
-[  3%] Built target calPathInfo
-[  3%] Built target _mav_msgs_generate_messages_check_deps_GpsWaypoint
-[  3%] Built target _mav_msgs_generate_messages_check_deps_Actuators
-[  3%] Built target _mav_msgs_generate_messages_check_deps_RateThrust
-[  3%] Built target _mav_msgs_generate_messages_check_deps_AttitudeThrust
-[  3%] Built target _mav_msgs_generate_messages_check_deps_RollPitchYawrateThrust
-[  3%] Built target _mav_msgs_generate_messages_check_deps_Status
-[  3%] Built target _mav_msgs_generate_messages_check_deps_TorqueThrust
-[  3%] Built target tf2_msgs_generate_messages_py
-[  3%] Built target _mav_msgs_generate_messages_check_deps_FilteredSensorData
-[  3%] Built target roscpp_generate_messages_cpp
-[  3%] Built target roscpp_generate_messages_eus
-[  3%] Built target roscpp_generate_messages_lisp
-[  3%] Built target roscpp_generate_messages_nodejs
-[  3%] Built target roscpp_generate_messages_py
-[  3%] Built target rosgraph_msgs_generate_messages_cpp
-[  3%] Built target rosgraph_msgs_generate_messages_eus
-[  3%] Built target rosgraph_msgs_generate_messages_lisp
-[  3%] Built target rosgraph_msgs_generate_messages_nodejs
-[  3%] Built target rosgraph_msgs_generate_messages_py
-[  3%] Built target nodelet_generate_messages_cpp
-[  3%] Built target nodelet_generate_messages_eus
-[  3%] Built target nodelet_generate_messages_lisp
-[  3%] Built target nodelet_generate_messages_nodejs
-[  3%] Built target nodelet_generate_messages_py
-[  3%] Built target bond_generate_messages_cpp
-[  3%] Built target bond_generate_messages_eus
-[  3%] Built target bond_generate_messages_lisp
-[  3%] Built target bond_generate_messages_nodejs
-[  3%] Built target bond_generate_messages_py
-[  3%] Built target tf_generate_messages_eus
-[  3%] Built target tf_generate_messages_cpp
-[  3%] Built target tf_generate_messages_lisp
-[  3%] Built target tf_generate_messages_nodejs
-[  3%] Built target tf_generate_messages_py
-[  3%] Built target sensor_msgs_generate_messages_cpp
-[  3%] Built target sensor_msgs_generate_messages_eus
-[  3%] Built target sensor_msgs_generate_messages_lisp
-[  3%] Built target sensor_msgs_generate_messages_nodejs
-[  3%] Built target actionlib_generate_messages_cpp
-[  3%] Built target sensor_msgs_generate_messages_py
-[  3%] Built target actionlib_generate_messages_eus
-[  3%] Built target actionlib_generate_messages_lisp
-[  3%] Built target actionlib_generate_messages_nodejs
-[  3%] Built target actionlib_generate_messages_py
-[  3%] Built target actionlib_msgs_generate_messages_cpp
-[  3%] Built target actionlib_msgs_generate_messages_eus
-[  3%] Built target actionlib_msgs_generate_messages_lisp
-[  3%] Built target actionlib_msgs_generate_messages_nodejs
-[  3%] Built target actionlib_msgs_generate_messages_py
-[  3%] Built target tf2_msgs_generate_messages_cpp
-[  3%] Built target tf2_msgs_generate_messages_eus
-[  3%] Built target tf2_msgs_generate_messages_lisp
-[  3%] Built target tf2_msgs_generate_messages_nodejs
-[  3%] Built target nav_msgs_generate_messages_py
-[  3%] Built target trajectory_msgs_generate_messages_cpp
-[  3%] Built target trajectory_msgs_generate_messages_eus
-[  3%] Built target poly_traj
-[  3%] Built target trajectory_msgs_generate_messages_lisp
-[  3%] Built target trajectory_msgs_generate_messages_nodejs
-[  3%] Built target trajectory_msgs_generate_messages_py
-[  3%] Built target nav_msgs_generate_messages_cpp
-[  3%] Built target nav_msgs_generate_messages_eus
-[  3%] Built target nav_msgs_generate_messages_lisp
-[  3%] Built target nav_msgs_generate_messages_nodejs
-[  4%] Built target egvg_record
-[  5%] Built target record_gazebo_data
-[  6%] Built target localPlanner
-[  7%] Built target pathFollower
-[  7%] Built target save_map_point
-[  8%] Built target pathExecution
-[  8%] Built target topic_tools_generate_messages_py
-[  8%] Built target egvg_vis
-[  8%] Built target pcl_ros_gencfg
-[  9%] Built target pointcloud_accumulator
-[  9%] Built target dynamic_reconfigure_generate_messages_cpp
-[  9%] Built target dynamic_reconfigure_generate_messages_eus
-[  9%] Built target dynamic_reconfigure_generate_messages_lisp
-[  9%] Built target dynamic_reconfigure_generate_messages_nodejs
-[  9%] Built target dynamic_reconfigure_generate_messages_py
-[  9%] Built target dynamic_reconfigure_gencfg
-[  9%] Built target nodelet_topic_tools_gencfg
-[  9%] Built target pcl_msgs_generate_messages_cpp
-[  9%] Built target pcl_msgs_generate_messages_eus
-[  9%] Built target pcl_msgs_generate_messages_nodejs
-[  9%] Built target pcl_msgs_generate_messages_lisp
-[  9%] Built target pcl_msgs_generate_messages_py
-[  9%] Built target std_srvs_generate_messages_cpp
-[  9%] Built target std_srvs_generate_messages_eus
-[  9%] Built target std_srvs_generate_messages_lisp
-[  9%] Built target std_srvs_generate_messages_nodejs
-[  9%] Built target std_srvs_generate_messages_py
-[  9%] Built target topic_tools_generate_messages_cpp
-[  9%] Built target topic_tools_generate_messages_eus
-[  9%] Built target topic_tools_generate_messages_lisp
-[  9%] Built target topic_tools_generate_messages_nodejs
-[  9%] Built target topo_prm_planner_generate_messages_py
-[ 10%] Built target dynavoro
-[ 10%] Built target topo_prm_planner_generate_messages_cpp
-[ 11%] Built target terrainAnalysis
-[ 11%] Built target topo_prm_planner_generate_messages_eus
-[ 11%] Built target topo_prm_planner_generate_messages_lisp
-[ 11%] Built target topo_prm_planner_generate_messages_nodejs
-[ 11%] Built target diagnostic_msgs_generate_messages_py
-[ 11%] Built target gazebo_msgs_generate_messages_cpp
-[ 11%] Built target _plan_manage_generate_messages_check_deps_Bspline
-[ 11%] Built target gazebo_ros_gencfg
-[ 11%] Built target gazebo_msgs_generate_messages_eus
-[ 11%] Built target gazebo_msgs_generate_messages_lisp
-[ 11%] Built target gazebo_msgs_generate_messages_nodejs
-[ 11%] Built target gazebo_msgs_generate_messages_py
-[ 11%] Built target diagnostic_msgs_generate_messages_cpp
-[ 11%] Built target diagnostic_msgs_generate_messages_eus
-[ 11%] Built target diagnostic_msgs_generate_messages_lisp
-[ 11%] Built target diagnostic_msgs_generate_messages_nodejs
-[ 11%] Built target _catkin_empty_exported_target
-[ 11%] Built target visualization_msgs_generate_messages_cpp
-[ 11%] Built target visualization_msgs_generate_messages_eus
-[ 11%] Built target visualization_msgs_generate_messages_lisp
-[ 11%] Built target visualization_msgs_generate_messages_nodejs
-[ 11%] Built target visualization_msgs_generate_messages_py
-[ 30%] Built target mav_msgs
-[ 31%] Built target car_msgs_generate_messages_py
-[ 31%] Built target gazebo_plugins_gencfg
-[ 32%] Built target car_msgs_generate_messages_cpp
-[ 32%] Built target car_msgs_generate_messages_eus
-[ 34%] Built target car_msgs_generate_messages_lisp
-[ 34%] Built target car_msgs_generate_messages_nodejs
-[ 35%] Built target common_srvs_generate_messages_py
-[ 36%] Built target common_srvs_generate_messages_cpp
-[ 38%] Built target common_srvs_generate_messages_eus
-[ 39%] Built target common_srvs_generate_messages_lisp
-[ 41%] Built target common_srvs_generate_messages_nodejs
-[ 42%] Built target jackal_msgs_generate_messages_lisp
-[ 44%] Built target jackal_msgs_generate_messages_py
-[ 45%] Built target jackal_msgs_generate_messages_cpp
-[ 47%] Built target jackal_msgs_generate_messages_eus
-[ 50%] Built target rotors_comm_generate_messages_py
-[ 50%] Built target jackal_msgs_generate_messages_nodejs
-[ 51%] Built target rotors_comm_generate_messages_cpp
-[ 53%] Built target rotors_comm_generate_messages_eus
-[ 54%] Built target rotors_comm_generate_messages_lisp
-[ 54%] Built target rotors_comm_generate_messages_nodejs
-[ 57%] Built target mav_msgs_generate_messages_py
-[ 59%] Built target mav_msgs_generate_messages_cpp
-[ 62%] Built target mav_msgs_generate_messages_eus
-[ 65%] Built target mav_msgs_generate_messages_lisp
-[ 68%] Built target mav_msgs_generate_messages_nodejs
-[ 68%] Built target car_simulator_nodelet
-[ 69%] Built target sensor_odom_to_world_node
-[ 70%] Built target slam_output
-[ 71%] Built target mainLauMethod
-[ 72%] Built target plan_manage_generate_messages_py
-[ 73%] Built target voronoi_planner_node
-[ 73%] Built target plan_manage_generate_messages_cpp
-[ 73%] Built target obj_generator
-[ 74%] Built target plan_manage_generate_messages_eus
-[ 74%] Built target plan_manage_generate_messages_lisp
-[ 76%] Built target plan_env
-[ 76%] Built target plan_manage_generate_messages_nodejs
-[ 76%] Built target topo_prm_planner_generate_messages
-[ 76%] Built target car_msgs_generate_messages
-[ 76%] Built target common_srvs_generate_messages
-[ 76%] Built target jackal_msgs_generate_messages
-[ 76%] Built target rotors_comm_generate_messages
-[ 77%] Built target waypoint_generator
-[ 77%] Built target mav_msgs_generate_messages
-[ 77%] Built target realsense_gazebo_plugin
-[ 78%] Built target lee_position_controller
-[ 79%] Built target roll_pitch_yawrate_thrust_controller
-[ 80%] Built target bspline
-[ 81%] Built target raycast_test
-[ 81%] Built target slam_sim_output_node
-[ 81%] Built target plan_manage_generate_messages
-[ 82%] Built target rotors_gazebo_bag_plugin
-[ 82%] Built target rotors_gazebo_controller_interface
-[ 84%] Built target path_searching
-[ 84%] Built target gazebo_geotagged_images_plugin
-[ 85%] Built target rotors_gazebo_fw_dynamics_plugin
-[ 86%] Built target rotors_gazebo_gps_plugin
-[ 86%] Built target rotors_gazebo_imu_plugin
-[ 87%] Built target rotors_gazebo_noisydepth_plugin
-[ 88%] Built target rotors_gazebo_lidar_plugin
-[ 88%] Built target rotors_gazebo_magnetometer_plugin
-[ 89%] Built target rotors_gazebo_motor_model
-[ 90%] Built target rotors_gazebo_multirotor_base_plugin
-[ 91%] Built target rotors_gazebo_odometry_plugin
-[ 92%] Built target rotors_gazebo_pressure_plugin
-[ 92%] Built target rotors_gazebo_odometry_no_tf_plugin
-[ 92%] Built target rotors_gazebo_ros_interface_plugin
-[ 92%] Built target lee_position_controller_node
-[ 92%] Built target LiftDragPlugin
-[ 93%] Built target rotors_gazebo_wind_plugin
-[ 93%] Built target roll_pitch_yawrate_thrust_controller_node
-[ 94%] Built target nlopt_test
-[ 94%] Built target car_mpc_nodelet
-[ 94%] Built target bspline_opt
-[ 94%] Built target traj_utils
-[ 95%] Built target traj_server
-[ 96%] Built target publish_nav_goal
-[ 97%] Built target topo_prm_planner
-[100%] Built target fast_planner_node
+CMake Deprecation Warning at CMakeLists.txt:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.5 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+-- Using CATKIN_DEVEL_PREFIX: /home/hyh/TGH_ws/devel
+-- Using CMAKE_PREFIX_PATH: /opt/ros/noetic
+-- This workspace overlays: /opt/ros/noetic
+CMake Warning (dev) at /opt/ros/noetic/share/catkin/cmake/python.cmake:4 (find_package):
+  Policy CMP0148 is not set: The FindPythonInterp and FindPythonLibs modules
+  are removed.  Run "cmake --help-policy CMP0148" for policy details.  Use
+  the cmake_policy command to set the policy and suppress this warning.
+
+Call Stack (most recent call first):
+  /opt/ros/noetic/share/catkin/cmake/all.cmake:164 (include)
+  /opt/ros/noetic/share/catkin/cmake/catkinConfig.cmake:20 (include)
+  CMakeLists.txt:58 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Using Debian Python package layout
+-- Using empy: /usr/lib/python3/dist-packages/em.py
+-- Using CATKIN_ENABLE_TESTING: ON
+-- Call enable_testing()
+-- Using CATKIN_TEST_RESULTS_DIR: /home/hyh/TGH_ws/build/test_results
+-- Forcing gtest/gmock from source, though one was otherwise available.
+-- Found gtest sources under '/usr/src/googletest': gtests will be built
+-- Found gmock sources under '/usr/src/googletest': gmock will be built
+CMake Deprecation Warning at /usr/src/googletest/CMakeLists.txt:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.5 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+CMake Deprecation Warning at /usr/src/googletest/googlemock/CMakeLists.txt:45 (cmake_minimum_required):
+  Compatibility with CMake < 3.5 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+CMake Deprecation Warning at /usr/src/googletest/googletest/CMakeLists.txt:56 (cmake_minimum_required):
+  Compatibility with CMake < 3.5 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+CMake Warning (dev) at /usr/src/googletest/googletest/cmake/internal_utils.cmake:249 (find_package):
+  Policy CMP0148 is not set: The FindPythonInterp and FindPythonLibs modules
+  are removed.  Run "cmake --help-policy CMP0148" for policy details.  Use
+  the cmake_policy command to set the policy and suppress this warning.
+
+Call Stack (most recent call first):
+  /usr/src/googletest/googletest/CMakeLists.txt:91 (include)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Found PythonInterp: /usr/bin/python3 (found version "3.8.10") 
+-- Using Python nosetests: /usr/bin/nosetests3
+-- catkin 0.8.12
+-- BUILD_SHARED_LIBS is on
+-- BUILD_SHARED_LIBS is on
+-- Using CATKIN_WHITELIST_PACKAGES: path_searching
+-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-- ~~  traversing 1 packages in topological order:
+-- ~~  - path_searching
+-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-- +++ processing catkin package: 'path_searching'
+-- ==> add_subdirectory(TGH-Planner/TGH_Planner/path_searching)
+CMake Deprecation Warning at TGH-Planner/TGH_Planner/path_searching/CMakeLists.txt:1 (cmake_minimum_required):
+  Compatibility with CMake < 3.5 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+CMake Warning (dev) at /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:152 (find_package):
+  Policy CMP0144 is not set: find_package uses upper-case <PACKAGENAME>_ROOT
+  variables.  Run "cmake --help-policy CMP0144" for policy details.  Use the
+  cmake_policy command to set the policy and suppress this warning.
+
+  CMake variable EIGEN_ROOT is set to:
+
+    /usr/include/eigen3
+
+  For compatibility, find_package is ignoring the variable, but code in a
+  .cmake module might still use it.
+Call Stack (most recent call first):
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:316 (find_eigen)
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:551 (find_external_library)
+  TGH-Planner/TGH_Planner/path_searching/CMakeLists.txt:8 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Eigen found (include: /usr/include/eigen3, version: 3.3.7)
+CMake Warning (dev) at /usr/lib/x86_64-linux-gnu/cmake/pcl/Modules/FindFLANN.cmake:44 (find_package):
+  Policy CMP0144 is not set: find_package uses upper-case <PACKAGENAME>_ROOT
+  variables.  Run "cmake --help-policy CMP0144" for policy details.  Use the
+  cmake_policy command to set the policy and suppress this warning.
+
+  CMake variable FLANN_ROOT is set to:
+
+    /usr
+
+  For compatibility, find_package is ignoring the variable, but code in a
+  .cmake module might still use it.
+Call Stack (most recent call first):
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:263 (find_package)
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:318 (find_flann)
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:551 (find_external_library)
+  TGH-Planner/TGH_Planner/path_searching/CMakeLists.txt:8 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- The imported target "vtkParseOGLExt" references the file
+   "/usr/bin/vtkParseOGLExt-7.1"
+but this file does not exist.  Possible reasons include:
+* The file was deleted, renamed, or moved to another location.
+* An install or uninstall procedure did not complete successfully.
+* The installation package was faulty and contained
+   "/usr/lib/cmake/vtk-7.1/VTKTargets.cmake"
+but not all the files it references.
+
+-- The imported target "vtkRenderingPythonTkWidgets" references the file
+   "/usr/lib/x86_64-linux-gnu/libvtkRenderingPythonTkWidgets.so"
+but this file does not exist.  Possible reasons include:
+* The file was deleted, renamed, or moved to another location.
+* An install or uninstall procedure did not complete successfully.
+* The installation package was faulty and contained
+   "/usr/lib/cmake/vtk-7.1/VTKTargets.cmake"
+but not all the files it references.
+
+-- The imported target "vtk" references the file
+   "/usr/bin/vtk"
+but this file does not exist.  Possible reasons include:
+* The file was deleted, renamed, or moved to another location.
+* An install or uninstall procedure did not complete successfully.
+* The installation package was faulty and contained
+   "/usr/lib/cmake/vtk-7.1/VTKTargets.cmake"
+but not all the files it references.
+
+-- The imported target "pvtk" references the file
+   "/usr/bin/pvtk"
+but this file does not exist.  Possible reasons include:
+* The file was deleted, renamed, or moved to another location.
+* An install or uninstall procedure did not complete successfully.
+* The installation package was faulty and contained
+   "/usr/lib/cmake/vtk-7.1/VTKTargets.cmake"
+but not all the files it references.
+
+CMake Warning (dev) at /usr/local/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake:438 (message):
+  The package name passed to `find_package_handle_standard_args` (USB_10)
+  does not match the name of the calling package (OpenNI).  This can lead to
+  problems in calling code that expects `find_package` result variables
+  (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/Modules/FindOpenNI.cmake:28 (find_package_handle_standard_args)
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:179 (find_package)
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:322 (find_openni)
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:548 (find_external_library)
+  TGH-Planner/TGH_Planner/path_searching/CMakeLists.txt:8 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- OpenNI found (include: /usr/include/ni, lib: /usr/lib/libOpenNI.so)
+CMake Warning (dev) at /usr/local/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake:438 (message):
+  The package name passed to `find_package_handle_standard_args` (USB_10)
+  does not match the name of the calling package (OpenNI2).  This can lead to
+  problems in calling code that expects `find_package` result variables
+  (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/Modules/FindOpenNI2.cmake:28 (find_package_handle_standard_args)
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:193 (find_package)
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:324 (find_openni2)
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:548 (find_external_library)
+  TGH-Planner/TGH_Planner/path_searching/CMakeLists.txt:8 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- OpenNI2 found (include: /usr/include/openni2, lib: /usr/lib/libOpenNI2.so)
+** WARNING ** io features related to pcap will be disabled
+** WARNING ** io features related to png will be disabled
+CMake Warning (dev) at /usr/local/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake:438 (message):
+  The package name passed to `find_package_handle_standard_args` (libusb-1.0)
+  does not match the name of the calling package (PCL).  This can lead to
+  problems in calling code that expects `find_package` result variables
+  (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:291 (find_package_handle_standard_args)
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:338 (find_libusb)
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:548 (find_external_library)
+  TGH-Planner/TGH_Planner/path_searching/CMakeLists.txt:8 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+** WARNING ** io features related to libusb-1.0 will be disabled
+CMake Warning (dev) at /usr/local/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake:438 (message):
+  The package name passed to `find_package_handle_standard_args` (USB_10)
+  does not match the name of the calling package (OpenNI).  This can lead to
+  problems in calling code that expects `find_package` result variables
+  (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/Modules/FindOpenNI.cmake:28 (find_package_handle_standard_args)
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:179 (find_package)
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:322 (find_openni)
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:548 (find_external_library)
+  TGH-Planner/TGH_Planner/path_searching/CMakeLists.txt:8 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- OpenNI found (include: /usr/include/ni, lib: /usr/lib/libOpenNI.so)
+CMake Warning (dev) at /usr/local/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake:438 (message):
+  The package name passed to `find_package_handle_standard_args` (USB_10)
+  does not match the name of the calling package (OpenNI2).  This can lead to
+  problems in calling code that expects `find_package` result variables
+  (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/Modules/FindOpenNI2.cmake:28 (find_package_handle_standard_args)
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:193 (find_package)
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:324 (find_openni2)
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:548 (find_external_library)
+  TGH-Planner/TGH_Planner/path_searching/CMakeLists.txt:8 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- OpenNI2 found (include: /usr/include/openni2, lib: /usr/lib/libOpenNI2.so)
+CMake Warning (dev) at /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:165 (find_package):
+  Policy CMP0144 is not set: find_package uses upper-case <PACKAGENAME>_ROOT
+  variables.  Run "cmake --help-policy CMP0144" for policy details.  Use the
+  cmake_policy command to set the policy and suppress this warning.
+
+  CMake variable QHULL_ROOT is set to:
+
+    /usr
+
+  For compatibility, find_package is ignoring the variable, but code in a
+  .cmake module might still use it.
+Call Stack (most recent call first):
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:320 (find_qhull)
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:548 (find_external_library)
+  TGH-Planner/TGH_Planner/path_searching/CMakeLists.txt:8 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Could NOT find Qhull (missing: QHULL_LIBRARIES QHULL_INCLUDE_DIRS) 
+** WARNING ** surface features related to qhull will be disabled
+CMake Warning (dev) at /usr/local/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake:438 (message):
+  The package name passed to `find_package_handle_standard_args` (USB_10)
+  does not match the name of the calling package (OpenNI).  This can lead to
+  problems in calling code that expects `find_package` result variables
+  (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/Modules/FindOpenNI.cmake:28 (find_package_handle_standard_args)
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:179 (find_package)
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:322 (find_openni)
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:548 (find_external_library)
+  TGH-Planner/TGH_Planner/path_searching/CMakeLists.txt:8 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- OpenNI found (include: /usr/include/ni, lib: /usr/lib/libOpenNI.so)
+-- looking for PCL_COMMON
+CMake Warning (dev) at /usr/local/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake:438 (message):
+  The package name passed to `find_package_handle_standard_args` (PCL_COMMON)
+  does not match the name of the calling package (PCL).  This can lead to
+  problems in calling code that expects `find_package` result variables
+  (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:616 (find_package_handle_standard_args)
+  TGH-Planner/TGH_Planner/path_searching/CMakeLists.txt:8 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- looking for PCL_KDTREE
+CMake Warning (dev) at /usr/local/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake:438 (message):
+  The package name passed to `find_package_handle_standard_args` (PCL_KDTREE)
+  does not match the name of the calling package (PCL).  This can lead to
+  problems in calling code that expects `find_package` result variables
+  (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:616 (find_package_handle_standard_args)
+  TGH-Planner/TGH_Planner/path_searching/CMakeLists.txt:8 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- looking for PCL_OCTREE
+CMake Warning (dev) at /usr/local/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake:438 (message):
+  The package name passed to `find_package_handle_standard_args` (PCL_OCTREE)
+  does not match the name of the calling package (PCL).  This can lead to
+  problems in calling code that expects `find_package` result variables
+  (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:616 (find_package_handle_standard_args)
+  TGH-Planner/TGH_Planner/path_searching/CMakeLists.txt:8 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- looking for PCL_SEARCH
+CMake Warning (dev) at /usr/local/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake:438 (message):
+  The package name passed to `find_package_handle_standard_args` (PCL_SEARCH)
+  does not match the name of the calling package (PCL).  This can lead to
+  problems in calling code that expects `find_package` result variables
+  (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:616 (find_package_handle_standard_args)
+  TGH-Planner/TGH_Planner/path_searching/CMakeLists.txt:8 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- looking for PCL_SAMPLE_CONSENSUS
+CMake Warning (dev) at /usr/local/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake:438 (message):
+  The package name passed to `find_package_handle_standard_args`
+  (PCL_SAMPLE_CONSENSUS) does not match the name of the calling package
+  (PCL).  This can lead to problems in calling code that expects
+  `find_package` result variables (e.g., `_FOUND`) to follow a certain
+  pattern.
+Call Stack (most recent call first):
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:616 (find_package_handle_standard_args)
+  TGH-Planner/TGH_Planner/path_searching/CMakeLists.txt:8 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- looking for PCL_FILTERS
+CMake Warning (dev) at /usr/local/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake:438 (message):
+  The package name passed to `find_package_handle_standard_args`
+  (PCL_FILTERS) does not match the name of the calling package (PCL).  This
+  can lead to problems in calling code that expects `find_package` result
+  variables (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:616 (find_package_handle_standard_args)
+  TGH-Planner/TGH_Planner/path_searching/CMakeLists.txt:8 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- looking for PCL_2D
+CMake Warning (dev) at /usr/local/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake:438 (message):
+  The package name passed to `find_package_handle_standard_args` (PCL_2D)
+  does not match the name of the calling package (PCL).  This can lead to
+  problems in calling code that expects `find_package` result variables
+  (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:619 (find_package_handle_standard_args)
+  TGH-Planner/TGH_Planner/path_searching/CMakeLists.txt:8 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- looking for PCL_GEOMETRY
+CMake Warning (dev) at /usr/local/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake:438 (message):
+  The package name passed to `find_package_handle_standard_args`
+  (PCL_GEOMETRY) does not match the name of the calling package (PCL).  This
+  can lead to problems in calling code that expects `find_package` result
+  variables (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:619 (find_package_handle_standard_args)
+  TGH-Planner/TGH_Planner/path_searching/CMakeLists.txt:8 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- looking for PCL_IO
+CMake Warning (dev) at /usr/local/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake:438 (message):
+  The package name passed to `find_package_handle_standard_args` (PCL_IO)
+  does not match the name of the calling package (PCL).  This can lead to
+  problems in calling code that expects `find_package` result variables
+  (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:616 (find_package_handle_standard_args)
+  TGH-Planner/TGH_Planner/path_searching/CMakeLists.txt:8 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- looking for PCL_FEATURES
+CMake Warning (dev) at /usr/local/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake:438 (message):
+  The package name passed to `find_package_handle_standard_args`
+  (PCL_FEATURES) does not match the name of the calling package (PCL).  This
+  can lead to problems in calling code that expects `find_package` result
+  variables (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:616 (find_package_handle_standard_args)
+  TGH-Planner/TGH_Planner/path_searching/CMakeLists.txt:8 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- looking for PCL_ML
+CMake Warning (dev) at /usr/local/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake:438 (message):
+  The package name passed to `find_package_handle_standard_args` (PCL_ML)
+  does not match the name of the calling package (PCL).  This can lead to
+  problems in calling code that expects `find_package` result variables
+  (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:616 (find_package_handle_standard_args)
+  TGH-Planner/TGH_Planner/path_searching/CMakeLists.txt:8 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- looking for PCL_SEGMENTATION
+CMake Warning (dev) at /usr/local/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake:438 (message):
+  The package name passed to `find_package_handle_standard_args`
+  (PCL_SEGMENTATION) does not match the name of the calling package (PCL).
+  This can lead to problems in calling code that expects `find_package`
+  result variables (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:616 (find_package_handle_standard_args)
+  TGH-Planner/TGH_Planner/path_searching/CMakeLists.txt:8 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- looking for PCL_VISUALIZATION
+CMake Warning (dev) at /usr/local/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake:438 (message):
+  The package name passed to `find_package_handle_standard_args`
+  (PCL_VISUALIZATION) does not match the name of the calling package (PCL).
+  This can lead to problems in calling code that expects `find_package`
+  result variables (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:616 (find_package_handle_standard_args)
+  TGH-Planner/TGH_Planner/path_searching/CMakeLists.txt:8 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- looking for PCL_SURFACE
+CMake Warning (dev) at /usr/local/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake:438 (message):
+  The package name passed to `find_package_handle_standard_args`
+  (PCL_SURFACE) does not match the name of the calling package (PCL).  This
+  can lead to problems in calling code that expects `find_package` result
+  variables (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:616 (find_package_handle_standard_args)
+  TGH-Planner/TGH_Planner/path_searching/CMakeLists.txt:8 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- looking for PCL_REGISTRATION
+CMake Warning (dev) at /usr/local/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake:438 (message):
+  The package name passed to `find_package_handle_standard_args`
+  (PCL_REGISTRATION) does not match the name of the calling package (PCL).
+  This can lead to problems in calling code that expects `find_package`
+  result variables (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:616 (find_package_handle_standard_args)
+  TGH-Planner/TGH_Planner/path_searching/CMakeLists.txt:8 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- looking for PCL_KEYPOINTS
+CMake Warning (dev) at /usr/local/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake:438 (message):
+  The package name passed to `find_package_handle_standard_args`
+  (PCL_KEYPOINTS) does not match the name of the calling package (PCL).  This
+  can lead to problems in calling code that expects `find_package` result
+  variables (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:616 (find_package_handle_standard_args)
+  TGH-Planner/TGH_Planner/path_searching/CMakeLists.txt:8 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- looking for PCL_TRACKING
+CMake Warning (dev) at /usr/local/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake:438 (message):
+  The package name passed to `find_package_handle_standard_args`
+  (PCL_TRACKING) does not match the name of the calling package (PCL).  This
+  can lead to problems in calling code that expects `find_package` result
+  variables (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:616 (find_package_handle_standard_args)
+  TGH-Planner/TGH_Planner/path_searching/CMakeLists.txt:8 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- looking for PCL_RECOGNITION
+CMake Warning (dev) at /usr/local/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake:438 (message):
+  The package name passed to `find_package_handle_standard_args`
+  (PCL_RECOGNITION) does not match the name of the calling package (PCL).
+  This can lead to problems in calling code that expects `find_package`
+  result variables (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:616 (find_package_handle_standard_args)
+  TGH-Planner/TGH_Planner/path_searching/CMakeLists.txt:8 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- looking for PCL_STEREO
+CMake Warning (dev) at /usr/local/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake:438 (message):
+  The package name passed to `find_package_handle_standard_args` (PCL_STEREO)
+  does not match the name of the calling package (PCL).  This can lead to
+  problems in calling code that expects `find_package` result variables
+  (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:616 (find_package_handle_standard_args)
+  TGH-Planner/TGH_Planner/path_searching/CMakeLists.txt:8 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- looking for PCL_APPS
+CMake Warning (dev) at /usr/local/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake:438 (message):
+  The package name passed to `find_package_handle_standard_args` (PCL_APPS)
+  does not match the name of the calling package (PCL).  This can lead to
+  problems in calling code that expects `find_package` result variables
+  (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:616 (find_package_handle_standard_args)
+  TGH-Planner/TGH_Planner/path_searching/CMakeLists.txt:8 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- looking for PCL_IN_HAND_SCANNER
+CMake Warning (dev) at /usr/local/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake:438 (message):
+  The package name passed to `find_package_handle_standard_args`
+  (PCL_IN_HAND_SCANNER) does not match the name of the calling package (PCL).
+  This can lead to problems in calling code that expects `find_package`
+  result variables (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:619 (find_package_handle_standard_args)
+  TGH-Planner/TGH_Planner/path_searching/CMakeLists.txt:8 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- looking for PCL_POINT_CLOUD_EDITOR
+CMake Warning (dev) at /usr/local/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake:438 (message):
+  The package name passed to `find_package_handle_standard_args`
+  (PCL_POINT_CLOUD_EDITOR) does not match the name of the calling package
+  (PCL).  This can lead to problems in calling code that expects
+  `find_package` result variables (e.g., `_FOUND`) to follow a certain
+  pattern.
+Call Stack (most recent call first):
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:619 (find_package_handle_standard_args)
+  TGH-Planner/TGH_Planner/path_searching/CMakeLists.txt:8 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- looking for PCL_OUTOFCORE
+CMake Warning (dev) at /usr/local/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake:438 (message):
+  The package name passed to `find_package_handle_standard_args`
+  (PCL_OUTOFCORE) does not match the name of the calling package (PCL).  This
+  can lead to problems in calling code that expects `find_package` result
+  variables (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:616 (find_package_handle_standard_args)
+  TGH-Planner/TGH_Planner/path_searching/CMakeLists.txt:8 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- looking for PCL_PEOPLE
+CMake Warning (dev) at /usr/local/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake:438 (message):
+  The package name passed to `find_package_handle_standard_args` (PCL_PEOPLE)
+  does not match the name of the calling package (PCL).  This can lead to
+  problems in calling code that expects `find_package` result variables
+  (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  /usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake:616 (find_package_handle_standard_args)
+  TGH-Planner/TGH_Planner/path_searching/CMakeLists.txt:8 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy
+-- Configuring done (1.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/hyh/TGH_ws/build
+[100%] Built target path_searching
 Base path: /home/hyh/TGH_ws
 Source space: /home/hyh/TGH_ws/src
 Build space: /home/hyh/TGH_ws/build
 Devel space: /home/hyh/TGH_ws/devel
 Install space: /home/hyh/TGH_ws/install
 ####
-#### Running command: "make cmake_check_build_system" in "/home/hyh/TGH_ws/build"
+#### Running command: "cmake /home/hyh/TGH_ws/src -DCMAKE_BUILD_TYPE=Release -DPYTHON_EXECUTABLE=/usr/bin/python3 -DEigen3_DIR=/usr/lib/cmake/eigen3 -DOpenCV_DIR=/usr/lib/x86_64-linux-gnu/cmake/opencv4 -U PCL_* -DPCL_DIR=/usr/lib/x86_64-linux-gnu/cmake/pcl -DCATKIN_DEVEL_PREFIX=/home/hyh/TGH_ws/devel -DCMAKE_INSTALL_PREFIX=/home/hyh/TGH_ws/install -G Unix Makefiles" in "/home/hyh/TGH_ws/build"
 ####
 ####
 #### Running command: "make -j4 -l4" in "/home/hyh/TGH_ws/build"

@@ -67,7 +67,7 @@ include TGH-Planner/gazebo_sim/fly_sim/rotors_fly/rotors_comm/CMakeFiles/_rotors
 include TGH-Planner/gazebo_sim/fly_sim/rotors_fly/rotors_comm/CMakeFiles/_rotors_comm_generate_messages_check_deps_WindSpeed.dir/progress.make
 
 TGH-Planner/gazebo_sim/fly_sim/rotors_fly/rotors_comm/CMakeFiles/_rotors_comm_generate_messages_check_deps_WindSpeed:
-	cd /home/hyh/TGH_ws/build/TGH-Planner/gazebo_sim/fly_sim/rotors_fly/rotors_comm && ../../../../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py rotors_comm /home/hyh/TGH_ws/src/TGH-Planner/gazebo_sim/fly_sim/rotors_fly/rotors_comm/msg/WindSpeed.msg std_msgs/Header:geometry_msgs/Vector3
+	cd /home/hyh/TGH_ws/build/TGH-Planner/gazebo_sim/fly_sim/rotors_fly/rotors_comm && ../../../../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py rotors_comm /home/hyh/TGH_ws/src/TGH-Planner/gazebo_sim/fly_sim/rotors_fly/rotors_comm/msg/WindSpeed.msg geometry_msgs/Vector3:std_msgs/Header
 
 _rotors_comm_generate_messages_check_deps_WindSpeed: TGH-Planner/gazebo_sim/fly_sim/rotors_fly/rotors_comm/CMakeFiles/_rotors_comm_generate_messages_check_deps_WindSpeed
 _rotors_comm_generate_messages_check_deps_WindSpeed: TGH-Planner/gazebo_sim/fly_sim/rotors_fly/rotors_comm/CMakeFiles/_rotors_comm_generate_messages_check_deps_WindSpeed.dir/build.make
