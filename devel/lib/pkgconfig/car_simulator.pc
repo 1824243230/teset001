@@ -1,0 +1,8 @@
+prefix=/home/hyh/TGH_ws/devel
+
+Name: car_simulator
+Description: Description of car_simulator
+Version: 0.0.0
+Cflags: -I/home/hyh/TGH_ws/src/TGH-Planner/car_simulator/car_simulator/include -I/usr/include/eigen3
+Libs: -L${prefix}/lib 
+Requires: roscpp nodelet car_msgs

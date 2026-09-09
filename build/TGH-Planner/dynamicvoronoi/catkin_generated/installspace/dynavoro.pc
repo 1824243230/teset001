@@ -1,0 +1,8 @@
+prefix=/home/hyh/TGH_ws/install
+
+Name: dynavoro
+Description: Description of dynavoro
+Version: 0.0.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -ldynavoro
+Requires: roscpp nav_msgs geometry_msgs

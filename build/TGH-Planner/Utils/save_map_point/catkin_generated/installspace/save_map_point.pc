@@ -1,0 +1,8 @@
+prefix=/home/hyh/TGH_ws/install
+
+Name: save_map_point
+Description: Description of save_map_point
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/hyh/TGH_ws/devel
+
+Name: traj_analysis
+Description: Description of traj_analysis
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

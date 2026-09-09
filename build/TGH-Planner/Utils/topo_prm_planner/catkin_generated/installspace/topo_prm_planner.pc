@@ -1,0 +1,8 @@
+prefix=/home/hyh/TGH_ws/install
+
+Name: topo_prm_planner
+Description: Description of topo_prm_planner
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib -ltopo_prm_planner
+Requires: plan_env path_searching traj_utils

@@ -1,0 +1,8 @@
+prefix=/home/hyh/TGH_ws/devel
+
+Name: bspline
+Description: Description of bspline
+Version: 0.0.0
+Cflags: -I/home/hyh/TGH_ws/src/TGH-Planner/TGH_Planner/bspline/include
+Libs: -L${prefix}/lib -lbspline
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/hyh/TGH_ws/install
+
+Name: common_srvs
+Description: Description of common_srvs
+Version: 0.0.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

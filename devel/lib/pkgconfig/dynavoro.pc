@@ -1,0 +1,8 @@
+prefix=/home/hyh/TGH_ws/devel
+
+Name: dynavoro
+Description: Description of dynavoro
+Version: 0.0.1
+Cflags: -I/home/hyh/TGH_ws/src/TGH-Planner/dynamicvoronoi/include
+Libs: -L${prefix}/lib -ldynavoro
+Requires: roscpp nav_msgs geometry_msgs
